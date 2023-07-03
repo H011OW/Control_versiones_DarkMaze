@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PrimCorredor
+comment1.params=
+comment1.target=PrimCorredor()
+comment2.params=n\ banderaNivel
+comment2.target=PrimCorredor(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkKeyPressBck()
+comment5.params=
+comment5.target=void\ initBackgrounds()
+comment6.params=
+comment6.target=void\ clearPreviousBackground()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=world
+comment1.target=Principal(Backgro)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ moveForward()
+comment5.params=
+comment5.target=void\ initAnimationSprites()
+comment5.text=public\ void\ moveForwardBack(){\n\ \ \ \ \ \ \ \ currentBackgroundIndex\ \=\ (currentBackgroundIndex\ +\ 1)\ %\ backgrounds.length;\n\ \ \ \ \ \ \ \ \ \ \ \ //setBackground(backgrounds[currentBackgroundIndex]);\n\ \ \ \ \ \ \ \ \ \ \ \ initBackgrounds();\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ void\ initBackgrounds()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ for\ (int\ i\ \=\ 0;\ i\ <\ 8;\ i++)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ String\ filename\ \=\ "img"\ +\ i\ +\ ".jpeg";\n\ \ \ \ \ \ \ \ \ \ \ \ backgrounds[i]\ \=\ new\ GreenfootImage(filename);\n\ \ \ \ \ \ \ \ }\n}
+comment6.params=
+comment6.target=void\ animateFoward()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlackWorld
+comment1.params=n\ banderaNivel
+comment1.target=BlackWorld(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ apareceFantasma()
+comment4.params=
+comment4.target=void\ desapareceFantasma()
+numComments=5

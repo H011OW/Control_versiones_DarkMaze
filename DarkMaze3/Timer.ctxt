@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=
+comment1.target=Timer()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getTime()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=
+comment5.target=void\ initAnimationSprites()
+comment6.params=
+comment6.target=void\ animateForward()
+numComments=7

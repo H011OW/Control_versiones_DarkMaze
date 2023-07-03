@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fed
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fed\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Fed()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fedInAnim()
+comment4.params=
+comment4.target=void\ fedOutAnim()
+comment5.params=
+comment5.target=void\ clearPreviousBackground()
+comment6.params=
+comment6.target=void\ initFedIn()
+numComments=7

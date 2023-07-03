@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Backgro
+comment1.params=c1\ c2\ c3
+comment1.target=Backgro(Corazon,\ Corazon,\ Corazon)
+comment2.params=
+comment2.target=Backgro()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkKeyPressBck()
+comment5.params=
+comment5.target=void\ initBackgrounds()
+comment6.params=
+comment6.target=void\ clearPreviousBackground()
+comment6.text=public\ void\ apareceFantasma()\ {\n\ \ \ \ \ \ \ \ //addObject(timerLabel,\ getWidth()\ -\ 400,\ getHeight()\ /\ 10);\n\ \ \ \ \ \ \ \ jumpscare\ \=\ new\ GreenfootSound("sounds/jumps.mp3");\n\ \ \ \ \ \ \ \ jumpscare.play();\n\ \ \ \ \ \ \ \ phantom\ \=\ new\ Phantom(label);\n\ \ \ \ \ \ \ \ addObject(phantom,\ getWidth()\ /\ 2,\ getHeight()\ /\ 2\ +\ 50);\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ phantom.spawn();\n\ \ \ \ \ \ \ \ //addObject(timer,\ getWidth()-500,\ getHeight()\ /\ 10);\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ addObject(label,\ getWidth()-200,\ getHeight()\ /\ 10);\n\ \ \ \ \ \n\ \ \ \ \ \ \ \ //PhantomCount();\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ //int\ colisionadorSize\ \=\ 20;\ //\ Tama\u00F1o\ deseado\ del\ colisionador\n\ \ \ \ \ \ \ \ //int\ halfSize\ \=\ colisionadorSize\ /\ 2;\n\ \ \ \ \ \ \ \ //Rectangle\ colisionador\ \=\ new\ Rectangle(colisionadorSize,\ colisionadorSize);\n\ \ \ \ \ \ \ \ //colisionador.setLocation(phantom.getX()\ -\ halfSize,\ phantom.getY()\ -\ halfSize);\n\ \ \ \ \ \ \ \ //phantom.setColisionador(colisionador);\n\ \ \ \ \ \ \ \ CircleCollider\ collider\ \=\ new\ CircleCollider(15);\n\ \ \ \ \ \ \ \ addObject(collider,\ getWidth()\ /\ 2,\ getHeight()\ /\ 2);\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \n}
+numComments=7

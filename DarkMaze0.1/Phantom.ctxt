@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Phantom
+comment0.text=\n\ Write\ a\ description\ of\ class\ Phantom\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Phantom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ idle()
+comment5.params=
+comment5.target=void\ initAnimationSpritesIdle()
+comment6.params=
+comment6.target=void\ animateIdleWithDelay()
+comment6.text=public\ void\ animateidle(){\n\ \ \ \ \ \ \ \ setImage(idle[animIdleCounter%4]);\n\ \ \ \ \ \ \ \ animIdleCounter++;\n}
+comment7.params=
+comment7.target=void\ initAnimationSpritesSpawn()
+comment8.params=
+comment8.target=void\ spawn()
+comment9.params=
+comment9.target=void\ animateSpawn()
+numComments=10

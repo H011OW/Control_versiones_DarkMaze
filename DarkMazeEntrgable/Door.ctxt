@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\n\ Write\ a\ description\ of\ class\ g\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=world\ destino\ n\ banderaNivel
+comment1.target=Door(BlackWorld,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ bandera()
+comment4.params=
+comment4.target=void\ initAnimationSprites()
+comment5.params=
+comment5.target=void\ animateDoor()
+comment6.params=
+comment6.target=void\ openDoor()
+numComments=7
